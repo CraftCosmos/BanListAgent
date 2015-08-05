@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "CraftCosmos.BanList.Agent", "CraftCosmos.BanList.Agent\CraftCosmos.BanList.Agent.njsproj", "{CA9A35E7-CD1F-4068-8510-907EB4F81AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9A35E7-CD1F-4068-8510-907EB4F81AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9A35E7-CD1F-4068-8510-907EB4F81AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9A35E7-CD1F-4068-8510-907EB4F81AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9A35E7-CD1F-4068-8510-907EB4F81AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

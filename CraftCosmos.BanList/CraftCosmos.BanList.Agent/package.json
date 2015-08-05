@@ -1,0 +1,14 @@
+{
+  "name": "CraftCosmos.WatchBans",
+  "version": "0.0.0",
+  "description": "CraftCosmos.WatchBans",
+  "main": "app.js",
+  "author": {
+    "name": "john_000",
+    "email": ""
+  },
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "deep-diff": "^0.3.2"
+  }
+}
